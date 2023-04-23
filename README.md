@@ -4,7 +4,7 @@ This is a repository for a Full Stack Airbnb Clone with Next.js 13 App Router: R
 ### :space_invader: Tech Stack
 
 <details>
-  <summary>Client</summary>
+  Client
   <ul>
     <li><a href="https://#/">Typescript</a></li>
     <li><a href="https://nextjs.org/">Next.js</a></li>
